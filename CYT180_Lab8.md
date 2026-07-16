@@ -84,7 +84,8 @@ from sklearn.preprocessing import MinMaxScaler, StandardScaler
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-df = pd.read_csv('diabetes.csv') #  loads the dataset
+raw_url = 'https://raw.githubusercontent.com/plotly/datasets/master/diabetes.csv'
+df = pd.read_csv(raw_url) #  loads the dataset
 df.head() # previews the first 5 rows to verify structure and column names.
 ```
 
