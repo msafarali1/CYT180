@@ -168,7 +168,7 @@ Compare the performance of the two models and briefly answer the following quest
 
 ## SUBMISSION DETAILS
 
-Students must complete two components.
+Each students must complete two components.
 1. Written Report (PDF)
 2. Project Presentation to Instructor
 
@@ -220,7 +220,7 @@ Your report should clearly demonstrate your understanding of the machine learnin
 
 ### 2. Project Presentation
 
-Students must present their project to the instructor in-person during Week 12 or Week 13.
+Students must present their project to the instructor in-person on assigned date.
 
 During the presentation, students should:
 
